@@ -1,5 +1,5 @@
 # Getting-started-with-Tensorflow-2
-"Getting started with Tensorflow 2" is an online course offered by Imperial College of London on Coursera. I am uploading all the graded weekly assignments along with solutions for reference. 
+Created this repository for additional help in an online course called "Getting started with Tensorflow 2" offered by Imperial College of London on Coursera. I am uploading all the graded weekly assignments along with solutions for reference. 
 
 I thought this might help as the number of students active on Discussion forums are very low. Plus there are are no mentors to sort out problems related to notebooks.
 
