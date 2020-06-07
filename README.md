@@ -3,6 +3,6 @@ Created this repository for additional help in an online course called "Getting 
 
 I thought this might help as the number of students active on Discussion forums are very low. Plus there are are no mentors to sort out problems related to notebooks.
 
-As for the course it is really good and is largely application based rather than theoretical, hence, it is hightly recommended. 
+As for the course it is really good and is largely application based rather than theoretical, hence, it is highly recommended. 
 
 Hope my contribution helps! 
